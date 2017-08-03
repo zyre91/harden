@@ -1,0 +1,20 @@
+{
+  "name": "harden-gmbh",
+  "authors": [
+    "Peter Friend <pete_applewood12391@hotmail.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
