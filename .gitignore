@@ -28,3 +28,11 @@ Icon
 
 /assets/avatars/*
 !/assets/avatars/index.html
+
+# Bower Components
+# ---------------
+bower_components
+
+# Node Modules
+# ---------------
+node_modules
