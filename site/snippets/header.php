@@ -8,7 +8,25 @@
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
 
-  <?= css('assets/css/index.css') ?>
+  <?php 
+
+    switch (c::get('env')) {
+
+      case 'production':
+        echo css(array(
+          'assets/production/main.min.css'
+        ));
+      break;
+
+      case 'development':
+        echo css(array(
+          'assets/css/main.css'
+        ));
+      break;
+
+    }
+
+  ?>
 
 </head>
 <body>
