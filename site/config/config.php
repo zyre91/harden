@@ -30,3 +30,19 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 
 c::set('env', 'development');
+
+c::set('languages', array(
+  array(
+    'code'    => 'de',
+    'name'    => 'Deutsch',
+    'locale'  => 'de_DE',
+    'url'     => '/',
+    'default' => true,
+  ),
+  array(
+    'code'    => 'en',
+    'name'    => 'English',
+    'locale'  => 'en_US',
+    'url'     => '/en',
+  )
+));
