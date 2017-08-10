@@ -1,0 +1,31 @@
+/**
+ * I converted the SCSS mixin to LESS for the awesome coders like myself in response to a blog post on 37Signals - http://37signals.com/svn/posts/3271-easy-retina-ready-images-using-scss
+ * 
+ * Update: 2014-08-04 - Updated a long-standing bug where retina images were shown no matter what in the first background-image property.
+ *                    - Updated retina media query to be more reliable ()
+ * Update: 2013-11-13 - Picked up another technique thanks to reading this post from Tyler Tate, auto-fill in the second filename for the retina image, http://tylertate.com/blog/2013/06/11/retina-images-using-media-queries-and-LESS-CSS.html
+ * Update: 2013-04-16 - Have recently found a few use cases when using a retina pattern from Subtle Patterns on the <body>, this has come in handy
+ * Update: 2013-04-05 - Some research in the Wordpress Core(http://core.trac.wordpress.org/ticket/22238#comment:5) was pointed out that some tests may be redundant (Thanks @kbav) so I've cleaned these up
+ * Update: 2012-12-29 - Updated AGAIN to add MS IE10 declaration and fix wonky 'min--moz-' declaration which Mozilla engineers are aware of
+ * Update: 2012-11-21 - Updated again based on information from an article I found, added dppx and changed opera ratio to target more devices (http://www.uifuel.com/hd-retina-display-media-queries/)
+ * Update: 2012-11-17 - Updated based on Wordpress Core to target even more devices! Thanks @Wordpress <3 (http://core.trac.wordpress.org/changeset/22629)
+ */
+
+// .image-2x(@image, @width, @height, @repeat: no-repeat) {
+//   @filename  : ~`/(.*)\.(jpg|jpeg|png|gif)/.exec(@{image})[1]`;
+//   @extension : ~`/(.*)\.(jpg|jpeg|png|gif)/.exec(@{image})[2]`;
+//   background-image: ~`"url(@{filename}.@{extension})"`;
+//   background-repeat: @repeat;
+  
+//   @media
+//     only screen and (-webkit-min-device-pixel-ratio: 2),
+//     only screen and (   min--moz-device-pixel-ratio: 2),
+//     only screen and (     -o-min-device-pixel-ratio: 2/1),
+//     only screen and (        min-device-pixel-ratio: 2),
+//     only screen and (                min-resolution: 192dpi),
+//     only screen and (                min-resolution: 2dppx) {
+//       /* on retina, use image that's scaled by 2 */
+//       background-image: ~`"url(@{filename}@2x.@{extension})"`;
+//       background-size: @width @height;
+//   }
+// }

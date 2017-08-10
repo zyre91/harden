@@ -39,4 +39,11 @@
 </head>
 <body>
 
-<?php snippet('main-navigation') ?>
+
+
+<div class="harden-header">
+
+  <?php snippet('main-navigation') ?>
+
+</div>
+
