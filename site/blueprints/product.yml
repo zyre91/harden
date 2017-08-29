@@ -1,0 +1,51 @@
+title: Product
+
+pages: false
+
+fields:
+  product_title:
+    label: Title
+    type:  text
+  product_image:
+    label: image
+    type: image
+  product_desc_small:
+    label: Beschreibung (Klein)
+    type: textarea
+    size: small
+  product_desc_large:
+    label: Beschreibung
+    type: textarea
+    size: large
+  product_price:
+    label: Preis
+    type: text
+  product_price_additional_info:
+    label: Preis Info
+    type: text
+
+  product_standard_mixes:
+    label: Standard Mixes
+    type: structure
+    entry: >
+      <strong>{{mix_title}}</strong><br>
+      {{mix_description}}<br>
+      {{mix_price}}
+    fields:
+      mix_title:
+        label: Titel
+        type: text
+      mix_description:
+        label: Beschreibung
+        type: textarea
+        size: small
+      mix_price:
+        label: Preis
+        type: text
+      mix_price_additional_info:
+        label: Preis-Info
+        type: text
+      mix_image:
+        label: Bild
+        type: image
+

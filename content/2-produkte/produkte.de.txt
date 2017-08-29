@@ -1,0 +1,39 @@
+Title: Produkte
+
+----
+
+Text: 
+
+----
+
+Page-header-title: Guter Boden für jeden Anspruch
+
+----
+
+Page-header-subtitle: Finden Sie in unserem Sortiment das richtige Produkt für Ihre Bedürfnisse. Wir beraten Sie kompetent und zuverlässig.
+
+----
+
+Empty-products: 
+
+- 
+  empty_produdct_title: Nicht das Passende gefunden?
+  empty_produdct_text: 'Wir beraten Sie gern. Sie erreichen uns Mo bis Fr: 08:00 - 18:00 Uhr telefonisch (040) 12 34 56 78 oder per <a href="mailto:test@test.de">E-Mail</a>'
+  empty_product_icon: support
+  background_style: grass
+- 
+  empty_produdct_title: Produkte für Privatekunden
+  empty_produdct_text: 'Wir beraten Sie gern. Sie erreichen uns Mo bis Fr: 08:00 - 18:00 Uhr telefonisch (040) 12 34 56 78 oder per <a href="mailto:test@test.de">E-Mail</a>'
+  empty_product_icon: flower
+  background_style: soil
+
+
+----
+
+Product-slider-title: Guter Boden für jeden Anspruch
+
+----
+
+Product-slider-subtitle: Finden Sie in unserem Sortiment das richtige Produkt für Ihre Bedürfnisse. Wir beraten Sie kompetent und zuverlässig.
+
+----

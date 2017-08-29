@@ -1,0 +1,100 @@
+.harden-section {
+
+    padding: 80px 0;
+
+    ul,ul>li,p {
+        font-weight: 100;
+        font-size: 18px;
+    }
+
+    ul {
+        margin: 40px 0;
+    }
+
+    h1.harden-section-page-title {
+        font-size: 17px;
+        font-weight: bold;
+        line-height: 45px;
+        .text-uppercase;
+    }
+
+    h2.harden-section-title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    p.harden-section-subtitle {
+        font-size: 22px;
+    }
+
+    .btn {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+}
+
+.harden-section-sand {
+    background: @hh-sand;
+}
+
+.harden-service-list-item {
+    padding-top: 100px;
+    position: relative;
+    .text-center;
+    h2 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    &:before {
+        content: '';
+        position: absolute;
+        background-size: contain;
+        background-position: center center;
+        background-repeat: no-repeat;
+        top: 20px;
+        width: 100px;
+        height: 60px;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+    &.anlieferung:before { background-image: url('../images/anlieferung@2x.png');}
+    &.termine:before { background-image: url('../images/termine@2x.png');}
+    &.lieferzeiten:before { background-image: url('../images/lieferzeiten@2x.png');}
+}
+
+.services-product-slider-wrapper {
+    .harden-section {
+        padding: 0;
+    }
+}
+.transport-list {
+    li {
+        margin-bottom: 20px;
+    }
+    li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+    .harden-service-list-item {
+        &.anlieferung:before { background-image: url('../images/anlieferung@3x.png')}
+        &.termine:before { background-image: url('../images/termine@3x.png')}
+        &.lieferzeiten:before { background-image: url('../images/lieferzeiten@3x.png')}
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (-moz-min-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
+    .harden-service-list-item {
+        &.anlieferung:before { background-image: url('../images/anlieferung@3x.png');}
+        &.termine:before { background-image: url('../images/termine@3x.png');}
+        &.lieferzeiten:before { background-image: url('../images/lieferzeiten@3x.png');}
+    }
+}

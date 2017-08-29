@@ -1,0 +1,12 @@
+# /site/blueprints/fields/page-header.yml
+type: group
+fields:
+  page_header_headline:
+    label: Einleitung
+    type: headline
+  page_header_title:
+    label: Einleitungstitel
+    type: text
+  page_header_subtitle:
+    label: Untertitel
+    type: textarea

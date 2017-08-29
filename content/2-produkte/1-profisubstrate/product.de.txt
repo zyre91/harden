@@ -1,0 +1,74 @@
+Product-title: Profisubstrate
+
+----
+
+Text: 
+
+----
+
+Product-image: profisubstrate.jpg
+
+----
+
+Product-desc-small: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel rutrum nulla. Nam varius, erat et ullamcorper consequat, mi justo rutrum felis, sit amet finibus dui tellus fringilla ex.
+
+----
+
+Product-desc-large: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel rutrum nulla. Nam varius, erat et ullamcorper consequat, mi justo rutrum felis, sit amet finibus dui tellus fringilla ex. Proin ut dapibus leo, vel auctor mi. Nam in dapibus tortor. Sed sit amet leo sodales, tempus risus ac, dignissim ante. Morbi dictum finibus mauris, eget vulputate tellus. Quisque fringilla blandit tincidunt. Vivamus fermentum luctus dui, quis mollis mi laoreet venenatis. Vivamus vitae tempor quam. Nullam vel magna quis turpis varius porttitor sagittis in purus. Ut sollicitudin vestibulum purus, eu volutpat sapien. Etiam ut gravida sem. In at nibh non arcu laoreet tincidunt ut nec turpis. Sed ornare vehicula ultricies.
+
+----
+
+Title: profisubstrate
+
+----
+
+Product-price: ab 99,90 EUR
+
+----
+
+Product-price-additional-info: zzgl. MwSt. /cbm
+
+----
+
+Product-standard-mixes: 
+
+- 
+  mix_title: Potgrond
+  mix_description: >
+    Eine Torfmischung mit feiner, homogener
+    Struktur und hoher Klebkraft zur
+    Herstellung von Presslingen mit
+    maximaler Stabilität
+  mix_price: ab 99,90€ EUR
+  mix_price_additional_info: zzgl MwSt. /cbm
+  mix_image: ""
+- 
+  mix_title: BIO Potgrond
+  mix_description: >
+    Eine Torfmischung mit feiner, homogener
+    Struktur und hoher Klebkraft zur
+    Herstellung von Presslingen mit
+    maximaler Stabilität
+  mix_price: ab 99,90€ EUR
+  mix_price_additional_info: zzgl MwSt. /cbm
+  mix_image: ""
+- 
+  mix_title: Traysubstrat
+  mix_description: >
+    Eine Torfmischung mit feiner, homogener
+    Struktur und hoher Klebkraft zur
+    Herstellung von Presslingen mit
+    maximaler Stabilität
+  mix_price: ab 99,90€ EUR
+  mix_price_additional_info: zzgl MwSt. /cbm
+  mix_image: ""
+- 
+  mix_title: Medium mit Ton
+  mix_description: >
+    Eine Torfmischung mit feiner, homogener
+    Struktur und hoher Klebkraft zur
+    Herstellung von Presslingen mit
+    maximaler Stabilität
+  mix_price: ab 99,90€ EUR
+  mix_price_additional_info: zzgl MwSt. /cbm
+  mix_image: ""

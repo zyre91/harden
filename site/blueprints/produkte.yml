@@ -1,0 +1,53 @@
+title: Produkte
+
+pages:
+  template: product
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  page_header: page-header
+
+  empty_products:
+    label: Produkt Teasers
+    type: structure
+    entry: >
+      <strong>{{empty_produdct_title}}</strong><br>
+      {{empty_produdct_text}}
+    fields:
+      empty_produdct_title:
+        label: Title
+        type: text
+      empty_produdct_text:
+        label: Text
+        type: textarea
+      empty_product_icon:
+        label: Icon
+        type: select
+        default: flower
+        options:
+          support: Support
+          logistics: Logistics
+          phone: Phone
+          flower: Blume
+      background_style:
+        label: Hintergrund-Stil
+        type: select
+        default: soil
+        options:
+          soil: Erde
+          grass: Gras
+
+  product_slider_headline:
+    label: Product-Slider
+    type: headline
+
+  product_slider_title:
+    label: Title
+    type:  text
+
+  product_slider_subtitle:
+    label: Subtitle
+    type:  textarea

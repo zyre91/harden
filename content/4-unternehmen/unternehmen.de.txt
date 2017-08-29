@@ -1,0 +1,44 @@
+Title: Unternehmen
+
+----
+
+Text: 
+
+----
+
+Page-header-title: Heinrich Harden Familienunternehmen
+
+----
+
+Page-header-subtitle: Unser Unternehmen zeichnet sich über seine gesamte Historie durch ein lang eingearbeitetes Mitarbeiterteam aus. Wir kennen unsere Kunden, ihre Wünsche und Anlieferbedingungen. Wir setzen im Umgang mit unseren Kunden auf ein vertrauensvolles und partnerschaftliches Miteinander.
+
+----
+
+Staff-members-list: 
+
+----
+
+Philosophy-section-subtitle: 
+
+Wir verstehen uns als mittelständischer Dienstleister. Unsere Aufmerksamkeit liegt auf der
+schnellstmöglichen Bearbeitung / Erledigung Ihres Kundenwunsches. Unser Ziel ist es, Ihnen
+stets das qualitativ hochwertigste Produkt zum günstigsten Preis zu liefern.
+
+----
+
+Philosophy-section-markdown: 
+
+**Hier steht eine schöne Headline**
+Epudipienimi, tem ipit earciusam sumquas alitae velecti quoditi sint. Iquiscipsame ne volendendunt repudit labore, tempedio.Nis aut offici sit, autempo rerum, seque acerspercid earchil lorrunt dellandae eaque quo etur, tenis in non peribus vollib Epudipienimi Epudipienimi, tem ipit earciusam sumquas alitae velecti quoditi sint. Iquiscipsame ne volendendunt repudit labore, tempedio.Nis aut offici sit, autempo rerum, seque acerspercid earchil lorrunt dellandae eaque quo etur, tenis in non peribus vollib Epudipienimi
+
+Epudipienimi, tem ipit earciusam sumquas alitae velecti quoditi sint. Iquiscipsame ne volendendunt repudit labore, tempedio.Nis aut offici sit, autempo rerum, seque acerspercid earchil lorrunt dellandae eaque quo etur, tenis in non peribus vollib. Olluptas esequid esciendit opta que quunt laborrum que seque resenda di andae numquodi ulliquis imus sit que ducimint maiorem pellabo rectem rernaturi num, que plantore pos ex et fuga. Em alit a sam qui reprovidi cum rem asperaepudis doluptates con pa se velestio que laut volupta simusti andus.
+
+Les dendaeriam quissi te quatis dolore, odiciae incto quidunt otaturi ni distem quam quas asi beation senihil iunt quae prername quidem est, expla perio consed ut accus, quuntorendit que velita pellendis ne pro toremposam, num dusdandae eos eatus as unt, sequibu sandign ihicium verum auditae nonseni autatempos etusandero es quas aute quam, ullabor ibearitiis sande liquatis as sim fuga. Ebis consequae. Aximilis essimagnam eossim voluptatiae culluptaquat essunt exped que presser itatur, voluptatur sit que omnis abo.
+
+----
+
+Philosophy-section-image: 
+
+----
+
+Philosophy-section-title: Unsere Philosophie

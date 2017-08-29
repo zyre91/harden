@@ -1,0 +1,149 @@
+Title: Leistungen
+
+----
+
+Text: 
+
+----
+
+Page-header-title: Ihre Vorteile bei Heinrich Harden
+
+----
+
+Page-header-subtitle: Wir liefern Ihnen unsere Produkte gern individuell mit unserem eigenen Fuhrpark.
+
+----
+
+Services-list: 
+
+- 
+  service_title: Flexible Lieferzeiten
+  service_text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Pellentesque elit
+    lorem, pulvinar quis lorem malesuada,
+    ornare condimentum velit. Pellentesque
+    sit amet urna ipsum. Phasellus ornare
+    vestibulum eros a pulvinar. Etiam at
+    semper nisl. Praesent vulputate congue
+    rhoncus. Suspendisse potenti. Proin
+    auctor sapien nec elit scelerisque, id
+    vestibulum ligula bibendum. Proin ornare
+    felis justo, ut accumsan purus consequat
+    ac. Maecenas imperdiet lacus mattis
+    ipsum semper, vitae bibendum nisi
+    condimentum.
+  service_icon: termine
+- 
+  service_title: Individuelle Anlieferung
+  service_text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Pellentesque elit
+    lorem, pulvinar quis lorem malesuada,
+    ornare condimentum velit. Pellentesque
+    sit amet urna ipsum. Phasellus ornare
+    vestibulum eros a pulvinar. Etiam at
+    semper nisl. Praesent vulputate congue
+    rhoncus. Suspendisse potenti. Proin
+    auctor sapien nec elit scelerisque, id
+    vestibulum ligula bibendum. Proin ornare
+    felis justo, ut accumsan purus consequat
+    ac. Maecenas imperdiet lacus mattis
+    ipsum semper, vitae bibendum nisi
+    condimentum.
+  service_icon: anlieferung
+- 
+  service_title: Zuverlässige Termine
+  service_text: >
+    Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Pellentesque elit
+    lorem, pulvinar quis lorem malesuada,
+    ornare condimentum velit. Pellentesque
+    sit amet urna ipsum. Phasellus ornare
+    vestibulum eros a pulvinar. Etiam at
+    semper nisl. Praesent vulputate congue
+    rhoncus. Suspendisse potenti. Proin
+    auctor sapien nec elit scelerisque, id
+    vestibulum ligula bibendum. Proin ornare
+    felis justo, ut accumsan purus consequat
+    ac. Maecenas imperdiet lacus mattis
+    ipsum semper, vitae bibendum nisi
+    condimentum.
+  service_icon: lieferzeiten
+
+----
+
+Transport-options-list: 
+
+- 
+  transport_option_title: Walking-Floor Sattelzüge
+  transport_option_text: >
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+  transport_option_image: ""
+- 
+  transport_option_title: Seitenkipper
+  transport_option_text: >
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+  transport_option_image: ""
+- 
+  transport_option_title: Auslieferung von Palettenware
+  transport_option_text: >
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+  transport_option_image: ""
+- 
+  transport_option_title: Abholung im Lager
+  transport_option_text: >
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+    Epudipienimi, tem ipit earciusam sumquas
+    alitae velecti quoditi sint.
+    Iquiscipsame ne volendendunt repudit
+    labore, tempedio.Nis aut offici sit,
+    autempo rerum, seque acerspercid earchil
+    lorrunt dellandae eaque quo etur, tenis
+    in non peribus vollib Epudipienimi
+  transport_option_image: ""

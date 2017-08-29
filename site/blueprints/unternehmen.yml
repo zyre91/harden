@@ -1,0 +1,46 @@
+title: Unternehmen
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  page_header: page-header
+
+  staff_members_headline:
+    label: Mitarbeiter
+    type: headline
+  staff_members_list:
+    label: Mitarbeiter
+    type: structure
+    entry: >
+      {{member_name}}<br>
+      {{member_position}}
+    fields:
+      member_name:
+        label: Title
+        type: text
+      member_position:
+        label: Text
+        type: text
+
+  philosophy_section_headline:
+    label: Philosophie
+    type: headline
+  philosophy_section_title:
+    label: Titel
+    type: text
+  philosophy_section_subtitle:
+    label: Untertitel
+    type: textarea
+  philosophy_section_markdown:
+    label: Inhalt
+    type: markdown
+  philosophy_section_image:
+    label: Bild
+    type: image
+
+
+

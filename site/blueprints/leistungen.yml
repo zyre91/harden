@@ -1,0 +1,53 @@
+title: Leistungen
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  page_header: page-header
+
+  services_list:
+    label: Services
+    type: structure
+    limit: 3
+    entry: >
+      <strong>{{service_title}}</strong><br>
+      {{service_text}}
+    fields:
+      service_title:
+        label: Title
+        type: text
+      service_text:
+        label: Text
+        type: textarea
+      service_icon:
+        label: Icon
+        type: select
+        default: termine
+        options:
+          termine: Termine
+          anlieferung: Anlieferung
+          lieferzeiten: Lieferzeiten
+
+  transport_options:
+    label: Transportflotte
+    type: headline
+  transport_options_list:
+    label: Liste
+    type: structure
+    entry: >
+      <strong>{{transport_option_title}}</strong><br>
+      {{transport_option_text}}
+    fields:
+      transport_option_title:
+        label: Titel
+        type: text
+      transport_option_text:
+        label: Text
+        type: textarea
+      transport_option_image:
+        label: Bild
+        type: image
