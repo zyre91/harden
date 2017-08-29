@@ -5,7 +5,7 @@
     padding-top: 60px;
     width: 100%;
     background-size: cover;
-    background-image: url('../images/footer-background.jpg');
+    background-image: url('../images/footer-background@2x.jpg');
 
     address {
         line-height: 22px;
@@ -54,6 +54,15 @@
     padding: 15px 0;
     margin-top: 30px;
     background: rgba(0,0,0,.4);
+    color: #e7dac9;
+    a {
+        color: #e7dac9;
+        &:hover {
+            color: darken(#e7dac9, 10%);
+            text-decoration: none;            
+        }      
+    }   
+
 }
 
 .harden-footer-brand-name {
@@ -70,15 +79,21 @@
     display: block;
 }
 
-@media 
-(-webkit-min-device-pixel-ratio: 1.25) {
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
     .harden-footer {
-        background-image: url('../images/footer-background@2x.jpg');
+        background-image: url('../images/footer-background@3x.jpg');
     }
 }
 
-@media 
-(-webkit-min-device-pixel-ratio: 2) {
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (-moz-min-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
     .harden-footer {
         background-image: url('../images/footer-background@3x.jpg');
     }

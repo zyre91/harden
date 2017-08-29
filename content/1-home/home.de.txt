@@ -1,3 +1,77 @@
 Title: Home
 
 ----
+
+Product-slider-title: Guter Boden für jeden Anspruch
+
+----
+
+Product-slider-subtitle: Finden Sie in unserem Sortiment das richtige Produkt für Ihre Bedürfnisse. Wir beraten Sie kompetent und zuverlässig.
+
+----
+
+Services-section-title: Unsere Logistikleistungen
+
+----
+
+Services-section-subtitle: Wir liefern Ihnen unsere Produkte gern individuell mit unserem eigenen Fuhrpark.
+
+----
+
+Services-section-content: 
+
+- Walking-Floor-Sattelzüge
+- Wechselbrückengliederzüge
+- Seitenkipper
+- Auslieferung von Palettenware mit Mitnahmestapler
+
+----
+
+News-section-title: Wissenwertes und Neuigkeiten
+
+----
+
+News-section-subtitle: 
+
+----
+
+Company-section-title: Heinrich Harden<br> Kompetenz seit 1985
+
+----
+
+Company-section-subtitle: Wir verstehen...
+
+----
+
+Company-section-content: 
+
+----
+
+Direct-sale-section-title: Lagerverkauf
+
+----
+
+Direct-sale-section-subtitle: Sie können unsere Produkte vor Ort in unserem Lager kaufen und abholen.
+
+----
+
+Direct-sale-section-content: 
+
+<strong>Beachten Sie unsere Öffnungszeiten</strong>
+Montag bis Freitag 08:00 - 18:00 Uhr<br>
+
+<strong>Lager Heinrich Harden GmbH</strong>
+Norderquerweg 87
+21037 Hamburg
+
+----
+
+Direct-sale-section-lat: 53.4302707
+
+----
+
+Direct-sale-section-lng: 10.1936196
+
+----
+
+Direct-sale-section-latlng: 53.43027069999999,10.195808299999953

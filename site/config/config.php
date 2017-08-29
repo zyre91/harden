@@ -31,6 +31,9 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('env', 'development');
 
+c::set('debug', true);
+c::set('geolocation-key', 'AIzaSyADp-qD0LdDEa_IbCfC6Xa4487JONvQpLc');
+
 c::set('languages', array(
   array(
     'code'    => 'de',

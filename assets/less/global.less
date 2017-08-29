@@ -3,3 +3,65 @@
 html, body {
     font-family: 'Ubuntu', sans-serif;
 }
+
+.btn {
+    border-radius: 5px;
+}
+
+#harden-map {
+    height: 380px;
+    width: 100%;
+}
+
+ol.harden-breadcrumb {
+    background: none;
+    padding: 40px 0;
+    margin: 0;
+    > li + li {
+        &:before {
+            content: '>';
+            color: @hh-soil;
+            padding: 0 10px;
+            font-size: 13px;
+            font-weight: normal;
+        }
+    }
+    > li > a {
+        text-transform: capitalize;
+        color: @hh-grass;
+        text-decoration: underline;
+    }
+    > li.active {
+        text-transform: capitalize;        
+        color: @hh-soil;
+    }
+}
+
+.slick-prev,
+.slick-next {
+    width: 60px;
+    height: 60px;
+}
+.slick-prev:before, .slick-next:before {
+    font-size: 60px;
+}
+
+.slick-slide {
+    outline: none;
+}
+
+.slick-next {
+    right: -65px;
+    [dir="rtl"] & {
+        left: -65px;
+        right: auto;
+    }
+}
+
+.slick-prev {
+    left: -65px;
+    [dir="rtl"] & {
+        right: -65px;
+        left: auto;
+    }
+}

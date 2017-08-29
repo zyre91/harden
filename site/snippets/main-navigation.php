@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         </button>
-        <a class="harden-logo" href="#">Project name</a>
+        <a class="harden-logo" href="/">Project name</a>
         <div class="harden-values">
             <ul>
                 <li>

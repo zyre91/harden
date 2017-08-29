@@ -7,10 +7,66 @@ fields:
     label: Title
     type:  text
 
-  intro:
-    label: Intro
+  services_section_headline:
+    label: Leistungen
+    type:  headline
+
+  services_section_title:
+    label: Title
+    type:  text
+
+  services_section_subtitle:
+    label: Subtitle
     type:  textarea
 
-  text:
-    label: Text
+  services_section_content:
+    label:  Inhalt
+    type: textarea
+
+  news_section_headline:
+    label: Aktuelles
+    type:  headline
+
+  news_section_title:
+    label: Title
+    type:  text
+
+  news_section_subtitle:
+    label: Subtitle
     type:  textarea
+
+  company_section_headline:
+    label: Unternehmen
+    type:  headline
+
+  company_section_title:
+    label: Title
+    type:  text
+
+  company_section_subtitle:
+    label: Subtitle
+    type:  textarea
+
+  company_section_content:
+    label:  Inhalt
+    type: textarea
+
+  direct_sale_section_headline:
+    label: Lagerverkauf
+    type:  headline
+
+  direct_sale_section_title:
+    label: Title
+    type:  text
+
+  direct_sale_section_subtitle:
+    label: Subtitle
+    type:  textarea
+
+  direct_sale_section_content:
+    label:  Inhalt
+    type: textarea
+
+  direct_sale_section_latlng:
+    label: Map Coords
+    type: geolocation

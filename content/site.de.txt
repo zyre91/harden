@@ -10,4 +10,8 @@ Description: This is Kirby's Starterkit.
 
 ----
 
-Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+Copyright: © Heinrich Harden GmbH (date: Year)
+
+----
+
+Google-maps-api-key: AIzaSyADp-qD0LdDEa_IbCfC6Xa4487JONvQpLc

@@ -47,3 +47,7 @@
 
 </div>
 
+<div class="container">
+<?php snippet('breadcrumb', array('page' => $page)); ?>
+</div>
+<?php snippet('page-header-image', array('page' => $page)); ?>

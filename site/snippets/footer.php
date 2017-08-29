@@ -52,8 +52,11 @@
     <div class="copyright-wrapper">
       <div class="container">
         <div class="row">
-          <div class="col-xs-12">
+          <div class="col-xs-12 col-sm-6">
             <?php echo $site->copyright()->kirbytext() ?>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <span class="pull-right">made with <span class="glyphicon glyphicon-heart"></span> by <a href="http://peterfriend.de" target="_blank" title="Peter Friend - web developer in Berlin">Peter Friend</a></span>
           </div>
         </div>
       </div>
@@ -69,12 +72,14 @@
 
       case 'production':
         echo js(array(
+          '///maps.googleapis.com/maps/api/js?key='.$site->google_maps_api_key(),
           'assets/production/all.min.js'
         ));
       break;
 
       case 'development':
         echo js(array(
+          '///maps.googleapis.com/maps/api/js?key='.$site->google_maps_api_key(),          
           'bower_components/jquery/dist/jquery.js',
           'bower_components/bootstrap/dist/js/bootstrap.js',
           'bower_components/slick-carousel/slick/slick.min.js',

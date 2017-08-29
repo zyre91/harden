@@ -71,9 +71,9 @@
         background-position: center center;
     }
 
-    .icon.icon-support { background-image: url('../images/support.png'); }
-    .icon.icon-logistics { background-image: url('../images/logistics.png'); }
-    .icon.icon-phone { background-image: url('../images/phone.png'); }
+    .icon.icon-support { background-image: url('../images/support@2x.png'); }
+    .icon.icon-logistics { background-image: url('../images/logistics@2x.png'); }
+    .icon.icon-phone { background-image: url('../images/phone@2x.png'); }
 
     .value {
         .pull-right;
@@ -83,7 +83,7 @@
 }
 
 .harden-logo {
-    background-image: url('../images/hh-logo.png');
+    background-image: url('../images/hh-logo@2x.png');
     background-size: contain;
     background-position: top left;
     width: 230px;
@@ -93,18 +93,24 @@
     margin-top: 28px;
 }
 
-@media 
-(-webkit-min-device-pixel-ratio: 1.25) {
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
     .harden-logo {
-        background-image: url('../images/hh-logo@2x.png');
+        background-image: url('../images/hh-logo@3x.png');
     }
-    .icon.icon-support { background-image: url('../images/support@2x.png'); }
-    .icon.icon-logistics { background-image: url('../images/logistics@2x.png'); }
-    .icon.icon-phone { background-image: url('../images/phone@2x.png'); }
+    .icon.icon-support { background-image: url('../images/support@3x.png'); }
+    .icon.icon-logistics { background-image: url('../images/logistics@3x.png'); }
+    .icon.icon-phone { background-image: url('../images/phone@3x.png'); }
 }
 
-@media 
-(-webkit-min-device-pixel-ratio: 2) {
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (-moz-min-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2) {
     .harden-logo {
         background-image: url('../images/hh-logo@3x.png');
     }
